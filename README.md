@@ -1,3 +1,9 @@
+# ❗❗ LEIA ANTES DE KIBAR ❗❗
+
+Se você veio pra kibar o brizas-free, pode kibar a vontade. Porém esse bot e protegido pela licença MIT, ou seja, caso modifique, distribua, revenda, ou utilize o código para um projeto. Por direito, deve-se por os créditos do criador. Caso haja quebra de contrato. O criador tem direito a recorrer a justiça. Se divirta kibando o bot :)
+
+---
+
 # ☄️✨𝑩𝑹⃟𝑰𝒁𝑨𝑺 𝑶⃟𝑹𝑰𝑶𝑵✨☄️
 <h1 align="center">
     <p>
